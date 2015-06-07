@@ -1,4 +1,4 @@
-package
+﻿package
 {
 	/**
 	 *@author T3
@@ -112,7 +112,7 @@ public static var PluginBody:String=
 "{\r\n"+
 	
 "}\r\n"+
-"IMPLEMENT_MODULE(FtempNamePluginImpl, Module);\r\n"
+"IMPLEMENT_MODULE(FtempNamePluginImpl, tempNamePlugin);\r\n"
 
 
 //Class
